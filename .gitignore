@@ -1,0 +1,11 @@
+# dependencies
+/client/node_modules
+/client/src/img
+/client/src/config.js
+
+/api/client/node_modules
+/api/node_modules
+
+/api/client/src/img
+/api/images
+/api/.env
